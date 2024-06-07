@@ -12,9 +12,6 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking spaces
 - Responsive Design: The game layout adjusts to different screen sizes for a seamless experience on various devices.
 - New Game Button: Allows players to start a new game at any time.
 
-## Getting Started
-
-To play the game, simply open the `index.html` file in a web browser.
 
 ## Instructions
 
