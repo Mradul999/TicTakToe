@@ -114,6 +114,7 @@ function winnerPlayer() {
     if(count===9){
         currentPlayeOrWinner.innerText = "Game Tied!!";
       circleCross.innerText = "";
+      newGameButton.classList.add("active");
 
     }
 
