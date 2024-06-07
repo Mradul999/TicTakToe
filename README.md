@@ -34,5 +34,6 @@ To play the game, simply open the `index.html` file in a web browser.
 ## Demo
 
 https://mradul-tictactoegame.netlify.app
+https://mradul999.github.io/TicTakToe/
 
 
