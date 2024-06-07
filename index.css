@@ -7,14 +7,12 @@
 }
 
 .wrapper{
-    overflow-y: hidden;
-    overflow-x: hidden;
     padding: 40px;
     display: flex;
     flex-direction: column;
 
     /* justify-content: space-between; */
-    gap: 100px;
+    gap: 80px;
     color: white;
     align-items: center;
     height: 100vh;
@@ -89,7 +87,6 @@
     align-items: center;
     color: white;
     font-size: 12px;
-    /* display: none; */
     opacity: 0;
 }
 
