@@ -100,7 +100,7 @@
     .wrapper {
         display: flex;
         flex-direction: column;
-        gap: 60px;
+        gap: 100px;
         
     }
 }
