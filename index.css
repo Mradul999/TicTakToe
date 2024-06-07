@@ -7,6 +7,8 @@
 }
 
 .wrapper{
+    overflow-y: hidden;
+    overflow-x: hidden;
     padding: 40px;
     display: flex;
     flex-direction: column;
